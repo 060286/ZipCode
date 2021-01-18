@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExamTest</string>
+    <string name="insert">Insert</string>
+    <string name="add_address">Add address</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="domestic_foreign">Trong nước / Ngoài nước</string>
+    <string name="foreign">Nuoc Ngoai</string>
+    <string name="domestic">Trong nuoc</string>
+    <string name="country">Country</string>
+    <string name="zip_code">Zip code</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_address">Edit Address</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="country">
+        <item name="vietnam">Viet Nam</item>
+        <item name="japan">Japan</item>
+        <item name="south_korea">South Korea</item>
+        <item name="united_kingdom">United Kingdom</item>
+    </string-array>
+</resources>
